@@ -1,2 +1,2 @@
 # terra_repo
-my 1st terraform repo...change manually
+my 1st terraform repo...change 
